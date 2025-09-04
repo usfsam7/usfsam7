@@ -12,7 +12,7 @@ Always learning, always coding. 🚀
 - **Languages:** JavaScript, PHP, Java, SQL  
 - **Frameworks:** Laravel, Express.js, Node.js  
 - **Databases:** MySQL, MongoDB, Mongoose  
-- **Tools:** Git-GitHub, Postman, Pusher, AI, Docker(basics)
+- **Tools:** Git-GitHub, Postman, Pusher, Filament, AI, Docker(basics)
 - **Other:**   RESTful APIs, Third-Party Integrations, Microservices, Hosting, MVC, Frontend basics, OOP, DSA
 
 
