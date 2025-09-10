@@ -18,4 +18,4 @@ Always learning, always coding. 🚀
 
 ## 🌐 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/sw-usf)  
-- 📧 Email: *sw7usf@gmail.com*  
+-  *sw7usf@gmail.com*  
