@@ -13,7 +13,7 @@ Always learning, always coding. 🚀
 - **Frameworks:** Laravel, Express.js, Node.js  
 - **Databases:** MySQL, MongoDB, Mongoose  
 - **Tools:** GitHub, Postman, Filament, AI, Docker
-- **Other:**  RESTful APIs, Third-Party/Payment Integrations, Testing, SaaS, Deployment, Frontend
+- **Other:**  RESTful APIs, Third-Party/Payment Integrations, Testing, SaaS Deployment, CI/CD, Github Actions
 
 
 ## 🌐 Connect with Me  
