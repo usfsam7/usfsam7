@@ -10,10 +10,10 @@ Always learning, always coding. 🚀
 ## 🛠️ Tech Stack & Skills  
 
 - **Languages:** PHP, JavaScript, Java, SQL  
-- **Frameworks:** Laravel, Express.js, Node.js  
-- **Databases:** MySQL, MongoDB, Mongoose  
+- **Frameworks:** Laravel, Vue, Inertia.js, Express.js, Node.js  
+- **Databases:** MySQL, Redis, MongoDB, Mongoose  
 - **Tools:** GitHub, Postman, Filament, AI, Docker
-- **Other:**  RESTful APIs, Third-Party/Payment Integrations, Testing, SaaS Deployment, CI/CD, Github Actions
+- **Other:**  RESTful APIs, Third-Party Integrations, Testing, SaaS Deployment, CI/CD, Github Actions
 
 
 ## 🌐 Connect with Me  
